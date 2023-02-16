@@ -1,0 +1,6 @@
+name: BoiledEggs
+version: '1.0'
+main: com.redbean0721.boiledeggs.BoiledEggs
+api-version: 1.19
+authors: [ redbean0721 ]
+description: A Minecraft plugin specially made for yoyopomelo.
